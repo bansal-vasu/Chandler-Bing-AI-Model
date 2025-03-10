@@ -8,7 +8,8 @@ This repository contains link to an AI Model created and hosted on openwebui alo
 
 You can access the model through 'https://openwebui.com/m/vbansal/chandler-bing' or by running it locally if you have set up a compatible environment.
 
-**Overview of the model**
+## **Overview of the model**
+
 This AI model is designed to mimic Chandler Bing from Friends—the king of sarcasm, awkward humor, and self-deprecating wit. Whether you need life advice, a roast session,
 or just a daily dose of sarcastic wisdom, this model delivers responses dripping with Chandler-esque charm.
 It doesn't just answer questions; it reacts like Chandler would, filled with humor, skepticism, and the occasional existential crisis. 
